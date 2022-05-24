@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[711],{6972:function(t,e,a){a.r(e);var r=a(7294);a(4975);e.default=function(t){var e=t.data.mdx;e.tableOfContents.items,e.frontmatter.title,e.frontmatter.description;return r.createElement("div",null)}}}]);
+//# sourceMappingURL=component---src-pages-mdx-slug-js-5dd3d09e08eb7c08c11a.js.map

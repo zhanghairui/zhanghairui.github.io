@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[883],{429:function(e,t,l){l.r(t);var n=l(7294),u=l(262);t.default=function(){return n.createElement("div",null,n.createElement(u.Z,{title:"404: Not found"}),n.createElement("h1",null,"404: Not Found"),n.createElement("p",null,"页面被外星人抓走了~"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-ac08c74818d99e0d0456.js.map
